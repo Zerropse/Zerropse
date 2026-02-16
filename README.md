@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kush Singh</h1>
 
 <h3 align="center">
-🚀 AI/ML Engineer • Full Stack Developer • Motorsport Tech Enthusiast
+🚀 Motorsport Enthusiast • AI/ML Engineer • Full Stack Developer • Aspiring GT Racer
 </h3>
 
 <p align="center">
@@ -29,11 +29,12 @@
 
 ## 🚀 Highlights
 
-- 💯 Solved **100+ DSA problems**
 - ⚡ Strong in **algorithm optimization & ML tuning**
 - 🔬 Passion for **research-driven problem solving**
 - 🏎️ Exploring **AI in Motorsport (Telemetry + Strategy)**
-
+- 🏎️ Exploring **Race Craft and Teaching Young Racers The Art of Racing**
+- 🏎️ Exploring **Took part in various Karting Races.**
+  
 ---
 
 ## 🌐 Connect With Me
@@ -102,10 +103,10 @@
 
 ## 🧠 Current Focus
 
-- 🏎️ Motorsport Analytics (Telemetry + Strategy AI)
+- 🏎️ Doing well in karting and putting a load of experience into Sim-Racing.
 - 🤖 Deep Learning & Computer Vision
 - ⚡ Real-time ML Systems
-- 🧩 Advanced DSA & Problem Solving
+- 🧩 Making an autonomous vehicle 
 
 ---
 
