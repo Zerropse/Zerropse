@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=F39C12&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Zerropse&label=Profile+Views&color=F39C12&style=flat" />
 </p>
 
 ---
@@ -96,12 +96,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerropse&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Zerropse&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerropse&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -122,5 +122,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=Zerropse&icon=0&color=0"/>
 </p>
