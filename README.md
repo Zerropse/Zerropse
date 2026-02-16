@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 
-🎓 Final Year B.Tech (CSE – AI & ML) | **VIT Bhopal University**  
+🎓 Final Year B.Tech (CSE) | **VIT Bhopal University**  
 📊 CGPA: **7.26 / 10**
 
 💡 I love building at the intersection of:
