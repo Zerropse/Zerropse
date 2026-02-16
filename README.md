@@ -95,7 +95,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerropse&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Zerropse&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12" height="150"/>
 </p>
 
