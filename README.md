@@ -5,7 +5,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=F39C12&center=true&vCenter=true&width=650&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Full+Stack+Developer;Computer+Vision+%7C+Generative+AI;Building+Tech+for+Motorsport+%F0%9F%8F%8E%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=F39C12&center=true&vCenter=true&width=650&lines=Aspiring+GT+Racer+%F0%9F%8F%8E%EF%B8%8F;AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI;Full+Stack+Developer;Building+Tech+for+Motorsport" 
+/>
 </p>
 
 <p align="center">
