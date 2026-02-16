@@ -34,7 +34,7 @@
 - 🔬 Passion for **research-driven problem solving**
 - 🏎️ Exploring **AI in Motorsport (Telemetry + Strategy)**
 - 🏎️ Exploring **Race Craft and Teaching Young Racers The Art of Racing**
-- 🏎️ Exploring **Took part in various Karting Races.**
+- 🏎️ Performed well in **Karting and Sim-Racing**
   
 ---
 
