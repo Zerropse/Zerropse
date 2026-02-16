@@ -70,18 +70,12 @@
 🔹 Generative AI Projects  
 🔹 Full Stack Web Apps  
 
-👉 *(Pin your best repos here for maximum impact)*
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -98,7 +92,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=newuserAJ&icon=0&color=0"/>
-</p>
