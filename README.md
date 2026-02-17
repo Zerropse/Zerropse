@@ -120,6 +120,10 @@
   <img src="https://your-project.vercel.app/api/streak" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zerropse&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zerropse&theme=github_dark" height="150"/>
+</p>
 ---
 
 ## 🏆 Philosophy
