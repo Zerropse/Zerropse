@@ -115,8 +115,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerropse&theme=github_dark" width="90%"/>
 </p>
 
+<!-- ✅ REAL-TIME STREAK (FIXED) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerropse&theme=highcontrast&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600&v=3" height="170"/>
+  <img src="https://your-project.vercel.app/api/streak" height="170"/>
 </p>
 
 <p align="center">
