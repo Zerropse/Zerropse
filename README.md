@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kush Singh</h1>
+<img width="890" height="270" alt="Screenshot 2026-02-17 at 3 09 54 PM" src="https://github.com/user-attachments/assets/06ecbb1f-217f-4ab7-91a0-be6d660a1f74" /><h1 align="center">Hi 👋, I'm Kush Singh</h1>
 
 <h3 align="center">
 🚀 Motorsport Enthusiast • AI/ML Engineer • Full Stack Developer • Aspiring GT Racer
@@ -93,26 +93,20 @@
 
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerropse&show_icons=true&theme=highcontrast&hide_border=true&icon_color=F39C12&title_color=F39C12" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerropse&layout=compact&theme=highcontrast&hide_border=true&title_color=F39C12" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerropse&theme=github_dark" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zerropse&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12&currStreakLabel=F39C12" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerropse&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12&currStreakLabel=F39C12" height="170"/>
 </p>
 
----
-
-## 🧠 Current Focus
-
-- 🏎️ Doing well in karting and putting a load of experience into Sim-Racing.
-- 🤖 Deep Learning & Computer Vision
-- ⚡ Real-time ML Systems
-- 🧩 Making an autonomous vehicle 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zerropse&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zerropse&theme=github_dark" height="150"/>
+</p>
 
 ---
 
