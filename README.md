@@ -97,7 +97,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zerropse&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerropse&show_icons=true&theme=highcontrast&hide_border=true&icon_color=F39C12&title_color=F39C12" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerropse&layout=compact&theme=highcontrast&hide_border=true&title_color=F39C12" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zerropse&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12&currStreakLabel=F39C12" height="170"/>
 </p>
 
 ---
@@ -114,6 +119,3 @@
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
