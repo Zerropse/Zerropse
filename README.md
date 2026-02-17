@@ -116,7 +116,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerropse&theme=highcontrast&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600&v=2" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerropse&theme=highcontrast&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600&v=3" height="170"/>
 </p>
 
 <p align="center">
