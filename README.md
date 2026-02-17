@@ -1,106 +1,122 @@
-<img width="890" height="270" alt="Screenshot 2026-02-17 at 3 09 54 PM" src="https://github.com/user-attachments/assets/06ecbb1f-217f-4ab7-91a0-be6d660a1f74" /><h1 align="center">Hi 👋, I'm Kush Singh</h1>
+<h1 align="center">🏁 Kush Singh</h1>
 
 <h3 align="center">
 🚀 Motorsport Enthusiast • AI/ML Engineer • Full Stack Developer • Aspiring GT Racer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=F39C12&center=true&vCenter=true&width=650&lines=Aspiring+GT+Racer+%F0%9F%8F%8E%EF%B8%8F;AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI;Full+Stack+Developer;Building+Tech+for+Motorsport" 
-/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=E10600&center=true&vCenter=true&width=750&lines=🏎️+Precision.+Speed.+Data.;AI+%7C+Machine+Learning+%7C+Deep+Learning;Motorsport+Analytics+%7C+Race+Strategy;Computer+Vision+%7C+Generative+AI;Full+Stack+Developer;Building+Technology+for+Racing" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zerropse&label=Profile+Views&color=F39C12&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Zerropse&label=VISITS&color=E10600&style=flat-square" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🏎️ About Me
 
 🎓 Final Year B.Tech (CSE) | **VIT Bhopal University**  
 📊 CGPA: **7.26 / 10**
 
-💡 I love building at the intersection of:
+💡 I build at the intersection of **AI + Motorsport + Software Engineering**
+
 - 🤖 Machine Learning & Deep Learning  
-- 🌐 Full Stack Web Development  
-- 🧠 Generative AI & Computer Vision  
-- 🏎️ Motorsport Analytics & Simulation  
+- 🧠 Computer Vision & Generative AI  
+- 🌐 Full Stack Development  
+- 🏁 Motorsport Data, Telemetry & Strategy  
 
 ---
 
-## 🚀 Highlights
+## 🏁 Motorsport Focus
+
+- 🏎️ Developing **race strategy simulators**
+- 📊 Working on **telemetry analysis & lap prediction models**
+- 🔥 Exploring **tire degradation & grip modeling**
+- 🎯 Improving **racecraft via sim racing & karting**
+- 👨‍🏫 Teaching fundamentals of racing lines & driving techniques  
+
+---
+
+## ⚡ Highlights
 
 - ⚡ Strong in **algorithm optimization & ML tuning**
-- 🔬 Passion for **research-driven problem solving**
-- 🏎️ Exploring **AI in Motorsport (Telemetry + Strategy)**
-- 🏎️ Exploring **Race Craft and Teaching Young Racers The Art of Racing**
-- 🏎️ Performed well in **Karting and Sim-Racing**
-  
+- 🔬 Research-driven problem solver  
+- 🏎️ Combining **engineering + racing intelligence**
+- 🧠 Fast learner, builder mindset  
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kush-singh-7769932a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-E10600?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/kushhsingh30/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:kushhsingh209@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-E10600?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E10600?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+### 🌐 Web & Backend  
+![HTML5](https://img.shields.io/badge/HTML5-E10600?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E10600?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-E10600?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-E10600?style=for-the-badge&logo=flask)
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+### 🤖 AI / ML  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E10600?style=for-the-badge&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-E10600?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv)
 
-### 📊 Data & Tools
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+### 📊 Data & Tools  
+![NumPy](https://img.shields.io/badge/NumPy-E10600?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![MongoDB](https://img.shields.io/badge/MongoDB-E10600?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-E10600?style=for-the-badge&logo=github)
+
+---
+
+## 🏁 Featured Projects
+
+🔴 🏎️ **Race Telemetry Dashboard**  
+→ Visualizing lap data, speed traces & tire behavior  
+
+🔴 🧠 **Lap Time Predictor**  
+→ ML model to predict lap times based on track + tire conditions  
+
+🔴 🤖 **AI Recommendation System**  
+→ Personalized recommendation engine  
+
+🔴 🌐 **Full Stack Applications**  
+→ Scalable web apps with modern frameworks  
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 🏎️ **Race Telemetry Dashboard** (Python + Plotly)  
-🔹 🧠 **Lap Time Predictor (ML Model)**  
-🔹 🤖 **AI Recommendation System**  
-🔹 🌐 **Full Stack Web Applications**  
-
-
----
-## 📊 GitHub Analytics
+## 📊 Performance Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerropse&theme=github_dark" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerropse&theme=highcontrast&hide_border=true&ring=F39C12&fire=F39C12&currStreakLabel=F39C12" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerropse&theme=highcontrast&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600" height="170"/>
 </p>
 
 <p align="center">
@@ -110,6 +126,18 @@
 
 ---
 
+## 🏆 Philosophy
+
+> “Racing is a data problem disguised as a sport.”  
+
+---
+
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<p align="center">
+🔥 Built for Speed | Powered by Data | Driven by Passion 🏁
+</p>
