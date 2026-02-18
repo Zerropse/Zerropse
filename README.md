@@ -6,13 +6,13 @@
 ---
 # 🏁 Kush Singh
 
-### AI/ML Engineer — Motorsport Systems & Performance
+### AI/ML Engineer — Aspiring Racer
 
 Building intelligent systems for **real-time decision-making, simulation, and performance optimization** in motorsport environments.
 
 ---
 
-## What I Build
+## What I Built
 
 * Real-time telemetry analysis & lap time optimization
 * Tire degradation and grip modeling under varying conditions
@@ -28,12 +28,12 @@ Building intelligent systems for **real-time decision-making, simulation, and pe
 
 * Modeled tire wear based on temperature, load, and driving inputs
 * Built grip vs degradation curves for performance prediction
-* Designed system for real-time simulation and analysis
+* Designed a system for real-time simulation and analysis
 
 ### Motorsport Telemetry Analysis
 
 * Processed and analyzed lap data (speed, throttle, braking)
-* Developed lap comparison and driver performance insights
+* Developed a lap comparison and driver performance insights
 * Built visualization tools for race data interpretation
 
 ### Computer Vision Systems
