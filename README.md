@@ -5,70 +5,56 @@
 ---
 # 🏁 Kush Singh
 
-### 🚀 AI/ML Engineer • Motorsport Enthusiast • Full Stack Developer • Aspiring GT Racer
+### AI/ML Engineer — Motorsport Systems & Performance
 
----
-## 🧠 About Me
-
-Building intelligent systems at the intersection of **AI, computer vision, and motorsport engineering**.
-Focused on real-time performance, simulation, and race analytics.
+Building intelligent systems for **real-time decision-making, simulation, and performance optimization** in motorsport environments.
 
 ---
 
-## ⚙️ What I Built
+## What I Build
 
-* 🏎️ Racing telemetry analysis & lap time prediction
-* 📊 Tire degradation & grip modeling (physics + ML)
-* 👁️ Computer vision for object detection & tracking
-* 🤖 Lightweight AI systems for real-time applications
-* 🌐 Full-stack dashboards for data visualization
-
----
-
-## 🏆 Selected Work
-
-### 🏁 Tire Degradation & Grip Model
-
-* Simulated tire wear based on temperature & driving conditions
-* Modeled grip vs degradation curve
-* Optimized for real-time prediction
-
-### 📊 Motorsport Telemetry Analysis
-
-* Analyzed racing data (speed, throttle, braking)
-* Built lap comparison & performance insights
-* Visualized driver performance
-
-### 👁️ Computer Vision Projects
-
-* Real-time object detection using OpenCV
-* Feature extraction & image processing pipelines
-* Applied ML for perception systems
+* Real-time telemetry analysis & lap time optimization
+* Tire degradation and grip modeling under varying conditions
+* Computer vision pipelines for detection, tracking, and perception
+* Lightweight ML systems for low-latency environments
+* Simulation-driven models for race strategy and performance
 
 ---
 
-## 🛠️ Stack
+## Selected Work
 
-**Languages:** Python, C++, JavaScript
-**AI/ML:** PyTorch, OpenCV, NumPy
-**Web:** React, Node.js
-**Tools:** Git, Linux, Docker
+### Tire Degradation & Grip Model
 
-**Concepts:**
-Computer Vision • Simulation • Data Analysis • Optimization • System Design
+* Modeled tire wear based on temperature, load, and driving inputs
+* Built grip vs degradation curves for performance prediction
+* Designed system for real-time simulation and analysis
+
+### Motorsport Telemetry Analysis
+
+* Processed and analyzed lap data (speed, throttle, braking)
+* Developed lap comparison and driver performance insights
+* Built visualization tools for race data interpretation
+
+### Computer Vision Systems
+
+* Implemented real-time object detection and tracking pipelines
+* Designed feature extraction and image processing workflows
+* Applied ML models for perception tasks
 
 ---
 
-## 🧭 Philosophy
+## Stack
 
-I build systems that perform under **real-world constraints** — speed, noise, and pressure.
-Just like motorsport. 🏎️
+Python • C++ • PyTorch • OpenCV • NumPy • Linux
+React • Node.js • Git
+
+Simulation • Data Analysis • Optimization • System Design • Computer Vision
 
 ---
 
-## 📫 Connect With Me
+## Focus
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: (add link)
+I build systems that operate under **real-world constraints** — latency, noise, and limited compute —
+with an emphasis on **performance, reliability, and speed**.
 
 ---
