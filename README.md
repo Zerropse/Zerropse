@@ -3,7 +3,7 @@
 ### 🚀 AI/ML Engineer • Motorsport Enthusiast • Full Stack Developer • Aspiring GT Racer
 
 <p align="center">
-  ![WhatsApp Image 2026-02-18 at 21 13 56](https://github.com/user-attachments/assets/e2ab65a7-1cd1-4e7b-bfda-c4a8e7760c7c)
+  <img src="![Drive](https://github.com/user-attachments/assets/6e0d7929-9cf2-4c39-b92c-0fb04682d4ef)" width="100%" />
 </p>
 
 ---
