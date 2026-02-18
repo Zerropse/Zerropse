@@ -115,11 +115,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerropse&theme=github_dark" width="90%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerropse&theme=highcontrast&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600&v=2" height="170"/>
-</p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zerropse&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zerropse&theme=github_dark" height="150"/>
 </p>
 
