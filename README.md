@@ -3,7 +3,7 @@
 ### 🚀 AI/ML Engineer • Motorsport Enthusiast • Full Stack Developer • Aspiring GT Racer
 
 <p align="center">
-  <img src="![Drive](https://github.com/user-attachments/assets/6e0d7929-9cf2-4c39-b92c-0fb04682d4ef)" width="100%" />
+  <img src="https://github.com/user-attachments/assets/6e0d7929-9cf2-4c39-b92c-0fb04682d4ef" width="100%" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ Focused on real-time performance, simulation, and race analytics.
 
 ---
 
-## ⚙️ What I Build
+## ⚙️ What I Built
 
 * 🏎️ Racing telemetry analysis & lap time prediction
 * 📊 Tire degradation & grip modeling (physics + ML)
