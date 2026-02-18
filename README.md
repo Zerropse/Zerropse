@@ -1,13 +1,13 @@
-# 🏁 Kush Singh
-
-### 🚀 AI/ML Engineer • Motorsport Enthusiast • Full Stack Developer • Aspiring GT Racer
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1f993df1-7bc7-4f1a-a339-e72af5ec35ed" width="100%" />
 </p>
 
 ---
+# 🏁 Kush Singh
 
+### 🚀 AI/ML Engineer • Motorsport Enthusiast • Full Stack Developer • Aspiring GT Racer
+
+---
 ## 🧠 About Me
 
 Building intelligent systems at the intersection of **AI, computer vision, and motorsport engineering**.
