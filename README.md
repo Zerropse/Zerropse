@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c4594cfc-66a2-4d9b-8f0c-676dea461902" width="85%" />
+  <img src="https://github.com/user-attachments/assets/0befcb32-4626-43b9-89f1-2ede200d55f9" width="85%" alt="AI Motorsport Banner" />
 </p>
+
 
 # 🏁 Kush Singh
 
