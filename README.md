@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=""https://github.com/user-attachments/assets/70c8364e-f480-4aee-b88f-40a463f240e6"" width="85%" />
-
+  <img src="https://github.com/user-attachments/assets/c4594cfc-66a2-4d9b-8f0c-676dea461902" width="85%" />
 </p>
 
 # 🏁 Kush Singh
